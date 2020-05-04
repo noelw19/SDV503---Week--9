@@ -32,3 +32,7 @@ somefunction(function(a,b){a+b})
 
 
 Today we went over different number and string methods as well as looked at functions anonymous functions and how they can be set up and that they are known as function literals.
+
+Journal 05/05/2020
+
+index1.js is the next days class i wanted them separated as we were talking about object methods.
