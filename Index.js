@@ -115,3 +115,29 @@ function anyFunction(data, callback) {
     );
         // rest the code
 }*/
+
+//string objects - string prototype methods
+
+//can use string as an object within log
+console.log("Hello World".length);
+
+const text1 = 'first name'
+const text2 = ' last name'
+const fullName = text1.concat(text2);
+console.log(fullName);
+console.log(fullName.toUpperCase());
+
+//trims all of the white space that is at the begining or end of your string.
+//also trimend and trimstart
+console.log(text1.trim());
+
+
+const newText = new String('SDV')
+
+console.log(newText);
+
+const newTextToString = (newText.toString())
+console.log(newTextToString);
+
+
+

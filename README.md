@@ -31,3 +31,4 @@ it is possible to create a function without a name.
 somefunction(function(a,b){a+b})
 
 
+Today we went over different number and string methods as well as looked at functions anonymous functions and how they can be set up and that they are known as function literals.
